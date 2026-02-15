@@ -1,0 +1,72 @@
+# Notebooks
+notebooks/
+
+# Project management files  
+BUILD_COMPLETE.md
+IMPLEMENTATION_SUMMARY.md
+PROJECT_SUMMARY.md
+SUBMISSION_CHECKLIST.md
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+venv312/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# Environment variables
+.env
+.env.txt
+.env.local
+
+# Data files
+*.pdf
+
+# RAG index (generated files)
+rag_index/
+
+# Git helper
+gitignore.txt
+rag_index/
+
+# Git helper
+gitignore.txt
